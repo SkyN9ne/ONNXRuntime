@@ -1,7 +1,7 @@
 # packages used by transformers tool test
 packaging
 protobuf==3.20.2
-numpy==1.24.0
+numpy==2.0.1
 coloredlogs==15.0
-transformers==4.24.0
+transformers==4.38.0
 psutil
